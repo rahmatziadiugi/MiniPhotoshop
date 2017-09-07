@@ -1,0 +1,23 @@
+daftar fungsi yang dikerjakan
+
+v 1. load | img -> rgb  // LoadImg.java
+v 2. grayscale | rgb -> grayscale // RGBtoGrayscale.java
+v 3. geser | kiri kanan atas bawah // Geser.java
+v 4. zoom | in n out // Zoom.java
+v 5. rotate // Rotate.java
+v 6. naik dan turun brightness // Brightness1.java
+v 7. perkalian dan pembagian brightness // Brightness2.java
+v 9. histogram | grayscale -> histogram // Histogram.java
+v 10. konvolusi // Konvolusi.java
+v 11. smoothing | median, mean, modus filter // Smoothing.java
+v 12. image sharpening // Sharpening.java
+v 13. edge detection // EdgeDetection.java
+v 14. sementasi threshold // SegmentasiThreshold.java
+v 16. erosi // Erosi.java
+v 17. dilasi // Dilasi.java
+
+bonus
+v -kompresi lossy // Lossy.java
+v -kompresi lossless // Lossless.java
+v -rotasi sudut non istimewa // Rotate.java (ada tambahan fungsi di dalamnya)
+v -closing & opening // Closing.java & Opening.java
